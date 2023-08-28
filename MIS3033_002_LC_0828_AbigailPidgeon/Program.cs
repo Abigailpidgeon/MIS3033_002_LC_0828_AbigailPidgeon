@@ -19,3 +19,4 @@ TimeSpan ts1;
 ts1=dt3- dt1;
 Console.WriteLine(ts1.ToString());
 Console.WriteLine(ts1.TotalDays);
+Console.WriteLine(ts1.TotalHours);
